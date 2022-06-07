@@ -1,0 +1,11 @@
+{
+    "clients": [
+        "TOKENS",
+        "TOKENS",
+        "TOKENS",
+        "TOKENS",
+        "TOKENS"
+    ],
+    "ServerID": "SERVER ID",
+    "ChannelID": "VOICE ID"
+}
