@@ -1,4 +1,7 @@
 ## Discord Self Bot 🤖
+
+
+
 <p align="left">
   <img src="https://cdn.discordapp.com/attachments/980527460514930789/983585328654856242/unknown.png">
 <p align="left">
@@ -17,3 +20,6 @@ Enter the TOKENS/SERVER ID/VOICE ID in to The Config file
 ```
 First run Install.bat to install the package then run the Bot !
 ```
+> With the help of my dear friend Ludho 
+
+> Ludho Github :https://github.com/Luhdo
