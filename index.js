@@ -2,7 +2,7 @@
 *                                  *
              SelfBot                
          Author: haren       
-         - Farhad#0752     
+              
 *                                  *                     
 * * * * * * * * * * * * * * * * * */
 
