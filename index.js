@@ -1,8 +1,8 @@
 /* * * * * * * * * * * * * * * * * *
 *                                  *
              SelfBot                
-         Author: Dragon            
-     ঔৣ Dragon ⸸ Ⴚάммά#1881      
+         Author: haren       
+         - Farhad#0752     
 *                                  *                     
 * * * * * * * * * * * * * * * * * */
 
